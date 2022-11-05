@@ -221,8 +221,15 @@ Figure -09 graph between temperature values and ADC output
 Temperature sensor LM35 is interfaced to LPC2148 and its output is measured 
 
 ## Output screen shots :
+### Display Off:
+![WhatsApp Image 2022-11-05 at 14 11 17](https://user-images.githubusercontent.com/93427923/200112351-ea446458-c647-4afe-ae9c-8aef2dd8f8ef.jpg)
 
+### Display On:
+![WhatsApp Image 2022-11-05 at 14 12 39](https://user-images.githubusercontent.com/93427923/200112362-fe32d31b-8548-46ee-93b2-a264dd5159f1.jpg)
 
+### Circuit Diagram:
+
+![image](https://user-images.githubusercontent.com/93427923/200112387-3eb354be-2542-45db-92dc-3a8dcdb63b8b.png)
 
 
 
